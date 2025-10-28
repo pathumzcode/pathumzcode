@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/pathumztweet" target="blank"><img src="https://img.shields.io/twitter/follow/pathumztweet?logo=twitter&style=for-the-badge" alt="pathumztweet" /></a> </p>
 
+<p align = "center">
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML , CSS , Javascript**
@@ -18,6 +20,8 @@
 - 📫 How to reach me **pathumlakshan0310@gmail.com**
 
 - ⚡ Fun fact **Call me as Pathum**
+
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
