@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumzcode&label=Profile%20views&color=0e75b6&style=flat" alt="pathumzcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathumzcode" alt="pathumzcode" /></a> </p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
 
 <p align="left"> <a href="https://twitter.com/pathumztweet" target="blank"><img src="https://img.shields.io/twitter/follow/pathumztweet?logo=twitter&style=for-the-badge" alt="pathumztweet" /></a> </p>
 
