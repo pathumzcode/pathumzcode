@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumzcode&label=Profile%20views&color=0e75b6&style=flat" alt="pathumzcode" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathumzcode" alt="pathumzcode" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/pathumztweet" target="blank"><img src="https://img.shields.io/twitter/follow/pathumztweet?logo=twitter&style=for-the-badge" alt="pathumztweet" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
@@ -12,7 +14,6 @@
 - 📫 How to reach me **pathumlakshan0310@gmail.com**
 
 - ⚡ Fun fact **Call me as Pathum**
-- ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathumzcode&show_icons=true&locale=en&layout=compact" alt="pathumzcode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathumzcode&show_icons=true&locale=en" alt="pathumzcode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumzcode&" alt="pathumzcode" /></p>
