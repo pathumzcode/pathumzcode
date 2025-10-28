@@ -12,6 +12,7 @@
 - 📫 How to reach me **pathumlakshan0310@gmail.com**
 
 - ⚡ Fun fact **Call me as Pathum**
+- ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
