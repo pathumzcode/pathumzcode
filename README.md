@@ -15,6 +15,9 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -29,13 +32,14 @@
 
 - 💬 Ask me about **HTML , CSS , Javascript**
 
-- 📫 How to reach me **pathumlakshan0310@gmail.com**
+- 📫 How to reach me **pathumlakshanbandara@outlook.com**
 
-- ⚡ Fun fact **Call me as Pathum**
+- ⚡ Fun fact **Call me as Mr.Pathum**
 
 <!--Intro end-->
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -46,7 +50,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pathumzcode&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumzcode&theme=dark&hide_border=false" /> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumzcode&" alt="pathumzcode" /></p>
 </td>
 
 <td width="50%" align="center">
@@ -74,13 +78,21 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- 💻 Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,cs&perline=6" />
+  </a>
+</p>
+
+<!-- 🧰 Tools & Frameworks -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,mysql,octave,ps,arduino,autocad&perline=10" />
   </a>
 </p>
 
