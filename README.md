@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML , CSS , Javascript**
 
-- 📫 How to reach me **pathumlakshan0310@gmail.com**
+- 📫 How to reach me **pathumlakshanbandara@outlook.com**
 
 - ⚡ Fun fact **Call me as Pathum**
 
