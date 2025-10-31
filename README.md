@@ -22,18 +22,18 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion is part of Programming✨</h2></summary>
   </ul>
 </div>
 
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = "400"></picture>
+<br>
 
 <!--Intro start-->
 - 🌱 I’m currently learning **Java**
-
+- 🎗️ Currantly I am studing at **SLIIT.**
 - 💬 Ask me about **HTML , CSS , Javascript**
-
 - 📫 How to reach me **pathumlakshanbandara@outlook.com**
-
 - ⚡ Fun fact **Call me as Mr.Pathum**
 
 <!--Intro end-->
