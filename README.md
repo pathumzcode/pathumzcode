@@ -149,5 +149,10 @@
 <!-- Bottom gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pathumzcode&label=Profile%20views&color=0e75b6&style=flat" alt="pathumzcode-profile-views" />
+</p>
+
 <!-- End of profile README -->
 ----------------------------------------------------------------------
