@@ -1,7 +1,7 @@
 <!-- Main heading with name -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Pathum Lakshan Bandara</h1></summary>
+    <summary><h1 style="display: inline-block">Hey 👋, I'm Pathum Lakshan Bandara</h1></summary>
   </ul>
 </div>
 
