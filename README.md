@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning **Java**
 - 🎗️ Currantly I am studing at **SLIIT.**
 - 💬 Ask me about **HTML , CSS , Javascript**
-- 📫 How to reach me **pathumlakshanbandara@outlook.com**
+- 📫 You can reach me through LinkTree **https://linktr.ee/pathumzlinktree**
 - ⚡ Fun fact **Call me as Mr.Pathum**
 
 <!-- Gradient divider -->
