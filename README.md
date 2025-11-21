@@ -40,8 +40,6 @@
   <!-- GitHub general statistics card -->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pathumzcode&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <!-- Contribution streak statistics -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumzcode&" alt="pathumzcode" /></p>
 </td>
 
 <!-- Right column: Most used languages -->
