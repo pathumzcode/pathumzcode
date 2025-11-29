@@ -128,7 +128,7 @@
         <br/>
         <strong>Multicloud Network Associate</strong>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="25%">
         <!-- Gemini Certified University Student badge -->
         <img src="https://raw.githubusercontent.com/pathumzcode/pathumzcode/main/Badges/gemini%20certified%20univercity%20student%20badge.png" alt="Gemini Certified University Student Badge" width="120"/>
         <br/>
