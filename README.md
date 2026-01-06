@@ -33,17 +33,6 @@
 <!-- Gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub trophy showcase -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <!-- Display achievement trophies in a single row -->
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=pathumzcode&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-
-<!-- Gradient divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Tech Stack Section Heading -->
 <div id="user-content-toc">
   <ul align="center">
